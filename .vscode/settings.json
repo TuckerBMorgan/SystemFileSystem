@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "ostream": "c",
+        "chrono": "c",
+        "iterator": "c",
+        "__locale": "c"
+    }
+}
